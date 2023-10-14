@@ -14,7 +14,7 @@ This isn’t just a motto; it’s our intrinsic belief and approach towards ever
 
 ## Our Projects
 
-### 🧚‍♀️ Pixie - Visual Communication Companion
+### 🧚‍♀️ [Pixie](http://pixie.cafe/) - Visual Communication Companion
 
 ![Pixie Logo](./profile/pixie.png)
 

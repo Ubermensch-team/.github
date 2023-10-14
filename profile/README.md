@@ -16,7 +16,7 @@ This isn’t just a motto; it’s our intrinsic belief and approach towards ever
 
 ### 🧚‍♀️ Pixie - Visual Communication Companion
 
-![Pixie Logo]()
+![Pixie Logo](./Frame 1.png)
 
 Pixie endeavors to revolutionize the way we communicate by intertwining images and messages seamlessly.
 

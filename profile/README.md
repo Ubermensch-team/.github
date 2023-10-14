@@ -1,6 +1,6 @@
 # Welcome to the Unbermensch Team! 👋
 
-![Unbermensch Logo](./profile/_cb8212cf-0472-4bae-a962-11f296d80cc1.jpeg)
+![Unbermensch Logo](./profile/_cb8212cf-0472-4bae-a962-11f296d80cc1.jpeg =250x)
 
 ## About Us
 
@@ -16,7 +16,7 @@ This isn’t just a motto; it’s our intrinsic belief and approach towards ever
 
 ### 🧚‍♀️ [Pixie](http://pixie.cafe/) - Visual Communication Companion
 
-![Pixie Logo](./profile/pixie.png)
+![Pixie Logo](./profile/pixie.png =200x)
 
 Pixie endeavors to revolutionize the way we communicate by intertwining images and messages seamlessly.
 
@@ -24,7 +24,7 @@ Pixie is not merely a messaging app; it’s a tool that redefines visual communi
 
 ### 📸 Easter - Real-Photo Based Social Network
 
-![Easter Logo](./profile/easter.png)
+![Easter Logo](./profile/easter.png =200x)
 
 A platform where memories aren’t just shared but celebrated, Easter paves the way for connecting through authentic photographic experiences.
 

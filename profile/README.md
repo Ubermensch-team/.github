@@ -16,7 +16,7 @@ This isn’t just a motto; it’s our intrinsic belief and approach towards ever
 
 ### 🧚‍♀️ [Pixie](http://pixie.cafe/) - Visual Communication Companion
 
-<img src="https://github.com/Ubermensch-team/.github/blob/4df14678bf8efcbcf637aa1cf3d821a5b085fae8/profile/pixie.png" width="48">
+<img src="https://github.com/Ubermensch-team/.github/blob/4df14678bf8efcbcf637aa1cf3d821a5b085fae8/profile/pixie.png" width="400">
 
 Pixie endeavors to revolutionize the way we communicate by intertwining images and messages seamlessly.
 

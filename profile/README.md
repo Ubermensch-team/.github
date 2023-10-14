@@ -24,7 +24,8 @@ Pixie is not merely a messaging app; it’s a tool that redefines visual communi
 
 ### 📸 Easter - Real-Photo Based Social Network
 
-![Easter Logo](./profile/easter.png)
+
+<img src="https://github.com/Ubermensch-team/.github/blob/461cf23689aac5286eeac750ae3fbaf163180487/profile/easter.png" width="400">
 
 A platform where memories aren’t just shared but celebrated, Easter paves the way for connecting through authentic photographic experiences.
 

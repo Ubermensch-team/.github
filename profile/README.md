@@ -1,6 +1,6 @@
 # Welcome to the Unbermensch Team! 👋
 
-![Unbermensch Logo](./_cb8212cf-0472-4bae-a962-11f296d80cc1.jpeg)
+![Unbermensch Logo](./profile/_cb8212cf-0472-4bae-a962-11f296d80cc1.jpeg)
 
 ## About Us
 
